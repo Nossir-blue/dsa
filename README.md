@@ -11,4 +11,10 @@ To run:
 ```bash
 bun run index.ts
 ```
-# dsa
+# Resources
+<ul>
+    <li>Leetcode</li>
+    <li><a href="https://www.youtube.com/watch?v=8hly31xKli0&t=330s">Algorithms and Data Structures Tutorial - Full Course For Beginners</a></li>
+    <li>Introduction to Algorithms - Thomas H. Cormen, Charles E- Leiserson, Ronald L. Rivest Clifford Stein</li>
+    <li>ChatGPT (of course)</li>
+</li>
